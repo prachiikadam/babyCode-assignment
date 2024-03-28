@@ -1,13 +1,11 @@
-
-
-import Home from './components/Home'
+import MainContainer from './components/MainContainer'
 
 function App() {
 
 
   return (
-    <>
-    <Home/>
+    < >
+    <MainContainer/>
     </>
   )
 }
