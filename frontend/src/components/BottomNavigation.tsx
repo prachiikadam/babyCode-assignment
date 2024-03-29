@@ -2,7 +2,7 @@
 
 const BottomNavigation = () => {
     return (
-        <div className="sm:hidden flex flex-row items-center mt-4 justify-between">
+        <div className="sm:hidden flex flex-row items-center pt-4 justify-between mx-auto  border-t-2 border-gray-300">
             <div className="flex flex-col justify-center items-center mr-4 ml-4" >
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <rect width="24" height="24" fill="none" />
